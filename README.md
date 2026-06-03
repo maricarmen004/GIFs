@@ -3,4 +3,8 @@
 
 Aquí se muestra el funcionamiento de la aplicación:
 
-![Nombre descriptivo del GIF](ruta/al/archivo.gif)
+![Nombre del GIF](screenshots/deformacion_pulsot28.gif)
+![Nombre del GIF](screenshots/deformacion_pulsot300W.gif)
+![Nombre del GIF](screenshots/deformacion_pulsot700W.gif)
+![Nombre del GIF](screenshots/deformacion_pulsot20.gif)
+![Nombre del GIF](screenshots/deformacion_pulsot30.gif)
