@@ -1,7 +1,6 @@
 # GIFs
-## Demostración Visual del Proyecto
 
-Aquí se muestra el funcionamiento de la aplicación.
+Aquí se muestra la variación del pulso a lo largo de la fibra para distintos parámetros.
 
 **Deformación de un pulso de parámetros p=500 W y t0=28,4x10^-15 s:**
 ![Pulso 500W](gif/deformacion_pulsop500W.gif)
