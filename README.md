@@ -4,17 +4,17 @@
 Aquí se muestra el funcionamiento de la aplicación.
 
 **Deformación de un pulso de parámetros p=500 W y t0=28,4x10^-15 s:**
-![Pulso 500W](gif/deformacion_pulsot28.gif)
+![Pulso 500W](gif/deformacion_pulsop500W.gif)
 
 ---
 
 **Deformación de un pulso de parámetros p=300 W y t0=28,4x10^-15 s:**
-![Pulso 300W](gif/deformacion_pulsot300W.gif)
+![Pulso 300W](gif/deformacion_pulsop300W.gif)
 
 ---
 
 **Deformación de un pulso de parámetros p=700 W y t0=28,4x10^-15 s:**
-![Pulso 700W](gif/deformacion_pulsot700W.gif)
+![Pulso 700W](gif/deformacion_pulsop700W.gif)
 
 ---
 
