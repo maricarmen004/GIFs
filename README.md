@@ -3,8 +3,8 @@
 
 Aquí se muestra el funcionamiento de la aplicación.
 
-
-![Deformación de un pulso de parámetros p=500 W y t0=28,4x10^{-15} s:](deformacion_pulsot28.gif)
+**Deformación de un pulso de parámetros p=500 W y t0=28,4x10^{-15} s:**
+![Nombre del GIF](deformacion_pulsot28.gif)
 
 Deformación de un pulso de parámetros p=300 W y t0=28,4x10^{-15} s:
 
