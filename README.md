@@ -1,6 +1,6 @@
 # GIFs
 
-Aquí se muestra la variación del pulso a lo largo de la fibra para distintos parámetros.
+Aquí se muestra la variación del pulso a lo largo de la fibra para distintas potencias de pico P y para distintos anchos de pulso T0.
 
 **Deformación de un pulso de parámetros P=500 W y T0=28,4x10^-15 s:**
 ![Pulso 500W](gif/deformacion_pulsop500W.gif)
